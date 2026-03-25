@@ -210,3 +210,4 @@ dist*
 *.exe
 Makefile
 *.code-workspace
+config.ini
