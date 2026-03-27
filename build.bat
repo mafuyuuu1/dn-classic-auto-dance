@@ -7,5 +7,5 @@ python -m nuitka ^
 --follow-imports ^
 --windows-uac-admin ^
 --nofollow-import-to=conftest ^
---output-folder-name=dist ^
+--output-folder-name=dancer ^
 .\main.py
