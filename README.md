@@ -1,6 +1,6 @@
-DN Classic Auto Dance
+# DN Classic Auto Dance
 
-# How to setup
+## How to setup
 1. Download the source code
 2. Install python
 3. Install requirements by running `pip install -r requirements.txt`.
